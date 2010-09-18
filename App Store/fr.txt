@@ -1,0 +1,43 @@
+Elements is a beautiful, versatile text editor for iOS.  Elements allows you to view, edit and share plain text documents on your iPad, iPhone or iPod touch.  All of your data is stored in a folder on your personal Dropbox account so that it's accessible from any device you have.
+
+Whether you're a freelance writer wanting to write your next article, a student with a book report due or professional on-the-go who needs access to their notes wherever they are, Elements can work for you.  
+
+FEATURES
+- Create, view and edit text files (.txt) on your iPhone, iPad or iPod touch
+- Cloud based: Elements stores all its data in an /Elements subfolder on your personal Dropbox account so you can access it via your iPhone, iPad, Mac or PC
+- Autosaving 
+- Offline support: upload your changes to Dropbox next time you're connected
+- Full text search of your Elements files
+- Word counts, line counts, character count
+- A Scratchpad to flesh out ideas or store random bits of information
+- Email files as an attachment
+- Sort file listings by name or modified date.
+- Customize the look of the text editor to fit your workflow
+- TextExpander touch support
+- Free customer support via email
+
+WHAT OTHERS ARE SAYING
+
+"Works like a charm. Great idea." — John Gruber, Daring Fireball
+
+"This simple, easy to use text app is a must" — 148apps
+
+"This is a really simple, nice text editor." — Leo Laporte
+
+"A perfect Dropbox-syncing text editor for writers." — Cult of Mac
+
+"A must-have app for iPad-using writers" — Dennis Sellers, Macsimum News
+
+"It's a great app." — MacStories.net
+
+REQUIREMENTS
+
+- iPhone or iPod touch running iOS 4
+- iPad running iOS 3.2
+- Dropbox account
+
+SUPPORT
+
+Please refrain from sending your bug reports or feature requests using the App Store.  Instead, to ensure a direct response from us send them to support@secondgearsoftware.com. You can also tweet us at http://twitter.com/secondgear or Like us at http://www.facebook.com/secondgearsoftware.  We're always happy to help our users and receive their comments!
+
+Thank you!
