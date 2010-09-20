@@ -7,8 +7,8 @@ If you're interested in maintaining a language or have any feedback on an existi
 ## Current Language Maintainers ##
 
 * English - [Second Gear](http://github.com/secondgear)
-* French - 
-* German - 
+* French - [cgodefroy](http://github.com/cgodefroy)
+* German - [ElGrowZone](http://github.com/elgrowzone)
 * Spanish - 
 
 ## How to Help ##
