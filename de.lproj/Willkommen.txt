@@ -1,0 +1,40 @@
+Hallo!
+
+Vielen Dank, dass Sie Elements installiert haben! 
+
+Elements ist ein neuer Texteditor mit Dropbox Integration von Second Gear. Elements ermöglicht es Ihnen, unformatierte Textdokumente mit Ihrem iPad, iPhone oder iPod touch anzusehen, zu bearbeiten oder gemeinsam zu nutzen. Ihre Dokumente werden dabei auf Ihrer Dropbox gesichert.
+
+## Wo werden die Dokumente abgelegt?
+
+Wenn Sie sich zum ersten Mal anmelden, erstellt Elements einen Ordner "Elements" in Ihrer Dropbox. In diesem Ordner finden Sie ein Dokument "Willkommen.txt", welches Sie gerade lesen!
+
+Jedes Mal, wenn Sie ein Dokument mit Elements oder auf Ihrem Mac, bzw. PC bearbeiten, werden die Änderungen automatisch über Ihre Dropbox verteilt. Hinweis: Die Synchronisierungsmöglichkeiten von Dropbox sind eingeschränkt, so dass Sie nicht mit mehreren Personen an einem Dokument zur gleichen Zeit arbeiten können. Wenn Sie jedoch ein Dokument auf Ihrem Mac oder PC erstellen und es auf Ihrem iPad unterwegs weiter bearbeiten wollen, ist Elements die perfekte Lösung für Sie.
+
+## Funktionen
+
+Elements hat genau die Funktionen, die Sie für ungestörte Textverarbeitung benötigen:
+
+* Neue Dokumente erstellen.
+* Automatische Sicherung alle 60 Sekunden (Benötigt Netzwerkverbindung).
+* Wörter, Buchstaben und Zeilen werden gezählt.
+* Ein Notizbuch, zum Aufschreiben Ihrer Ideen zwischendurch.
+* Unterstützung für TextExpander touch.
+* Verschicken Ihrer Dokumente als Mailanhang.
+
+## Unterstützung & Feedback
+
+Wenn Sie eine Frage zu oder Verbesserungsvorschläge für unser Produkt haben, oder einfach mal 'Hallo' sagen wollen - schicken Sie uns eine Mail.
+
+Second Gear Feedback: support@secondgearsoftware.com
+
+## Geben Sie uns eine Kundenbewertung
+
+Wenn Sie Elements mögen, wäre es sehr nett von Ihnen sich die Zeit zu nehmen, um für Elements eine Bewertung im App Store zu verfassen. Kundenbewertungen sind ein wesentlicher Aspekt die Erfolg und die Weiterentwicklung unserer Produkte zu gewährleisten.
+
+Wie haben Elements als eine reibungslose Textverarbeitung für unsere eigenen Bedürfnisse entwickelt und hoffen, dass auch Sie Ihre Freude an unserem Produkt haben.
+
+- 
+Second Gear 
+Web: http://www.secondgearsoftware.com
+Email: support@secondgearsoftware.com
+Twitter: @secondgear
