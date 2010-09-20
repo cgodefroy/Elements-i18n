@@ -1,43 +1,43 @@
-Elements is a beautiful, versatile text editor for iOS.  Elements allows you to view, edit and share plain text documents on your iPad, iPhone or iPod touch.  All of your data is stored in a folder on your personal Dropbox account so that it's accessible from any device you have.
+Elements est un superbe et souple éditeur de texte pour iOS. Elements vous permet de consulter, éditer et partager des textes simples sur votre iPad, iPhone et iPod touch. Toutes vos données sont stockées dans votre compte Dropbox personnel et sont ainsi disponibles depuis tous vos appareils.  
 
-Whether you're a freelance writer wanting to write your next article, a student with a book report due or professional on-the-go who needs access to their notes wherever they are, Elements can work for you.  
+Que vous soyez un journaliste free lance qui veut écrire son prochain article, une étudiante qui doit faire un dossier de lecture ou un professionnel mobile qui a besoin d'avoir accès à ses notes de n'importe où, Elements peut vous aider à travailler.
 
-FEATURES
-- Create, view and edit text files (.txt) on your iPhone, iPad or iPod touch
-- Cloud based: Elements stores all its data in an /Elements subfolder on your personal Dropbox account so you can access it via your iPhone, iPad, Mac or PC
-- Autosaving 
-- Offline support: upload your changes to Dropbox next time you're connected
-- Full text search of your Elements files
-- Word counts, line counts, character count
-- A Scratchpad to flesh out ideas or store random bits of information
-- Email files as an attachment
-- Sort file listings by name or modified date.
-- Customize the look of the text editor to fit your workflow
-- TextExpander touch support
-- Free customer support via email
+FONCTIONNALITÉS
+- Créer, lire et éditer des fichiers textes sur votre iPhone, iPad ou iPod touch
+- Dans le cloud: Elements conserve toutes les données dans un dossier Elements de votre Dropbox personnelle pour que vous puissiez y accéder depuis votre iPhone, Mac ou PC.
+- Sauvegarde automatique
+- Mode non connecté: ajoutez vos modifications à Dropbox la prochaine fois que vous vous connectez
+- Recherche plein texte dans tous vos textes Elements
+- Compte des mots, des lignes et des caractères
+- Un bloc note pour gribouiller vos idées et stocker des infos aléatoires
+- Envoyez vos fichiers en pièces jointes d'email
+- Triez vos fichiers par nom ou date de modification
+- Changez l'aspect de l'éditeur de texte pour l'adapter à vos besoins
+- Support de TextExpander touch
+- Support par email gratuit
 
-WHAT OTHERS ARE SAYING
+CE QUE LES AUTRES EN DISENT
 
-"Works like a charm. Great idea." — John Gruber, Daring Fireball
+"Ca marche comme par magie. Bonne idée" - John Gruber, Daring Fireball
 
-"This simple, easy to use text app is a must" — 148apps
+"Cette application simple et facile à utiliser est un must" - 148Apps
 
-"This is a really simple, nice text editor." — Leo Laporte
+"C'est un éditeur de texte vraiment simple et agréable à utiliser" - Leo Laporte
 
-"A perfect Dropbox-syncing text editor for writers." — Cult of Mac
+"Un éditeur de texte qui se synchronise avec Dropbox, parfait pour les rédacteurs" - Cult of Mac
 
-"A must-have app for iPad-using writers" — Dennis Sellers, Macsimum News
+"Une appli à avoir pour tous les gens qui écrivent" — Dennis Sellers, Macsimum News
 
-"It's a great app." — MacStories.net
+"C'est une super appli." — MacStories.net
 
-REQUIREMENTS
+CONFIGURATION
 
-- iPhone or iPod touch running iOS 4
-- iPad running iOS 3.2
-- Dropbox account
+- iPhone ou iPod touch avec iOS 4
+- iPad avec iOS 3.2
+- Compte Dropbox (souscription disponible dans l'appli)
 
 SUPPORT
 
-Please refrain from sending your bug reports or feature requests using the App Store.  Instead, to ensure a direct response from us send them to support@secondgearsoftware.com. You can also tweet us at http://twitter.com/secondgear or Like us at http://www.facebook.com/secondgearsoftware.  We're always happy to help our users and receive their comments!
+Veuillez s'il vous plait éviter d'envoyer vos rapports de bug ou vos demandes de fonctionnalités supplémentaires à travers l'AppStore. A la place, pour obtenir une réponse directe de notre part, envoyez les à support@secondgearsoftware.com. Ou envoyez nous un tweet à http://twitter.com/secondgear ou Aimez-Nous sur Facebook http://www.facebook.com/secondgearsoftware. Nous sommes toujours heureux d'aider nos utilisateurs et de répondre à leurs commentaires!
 
-Thank you!
+Merci!
