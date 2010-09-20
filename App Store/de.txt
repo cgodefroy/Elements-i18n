@@ -39,6 +39,6 @@ VORAUSSETZUNGEN
 
 UNTERSTÜTZUNG
 
-Please refrain from sending your bug reports or feature requests using the App Store.  Instead, to ensure a direct response from us send them to support@secondgearsoftware.com. You can also tweet us at http://twitter.com/secondgear or Like us at http://www.facebook.com/secondgearsoftware.  We're always happy to help our users and receive their comments!
+Bitte nehmen Sie davon Abstand, Fehler oder Verbesserungsvorschläge direkt im App Store zu äußern. Für einen besseren Informationsaustausch senden Sie stattdessen bitte eine Mail an elements@secondgearsoftware.com. Sie erreichen uns auch über Twitter unter @secondgear (http://twitter.com/secondgear) oder drücken Sie Ihr Gefallen für uns bei Facebook aus (http://facebook.com/secondgearsoftware). Wir freuen uns immer Ihnen helfen zu können und sind gespannt auf Ihre Kommentare.
 
 Vielen Dank!
