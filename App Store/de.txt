@@ -1,22 +1,23 @@
-Elements is a beautiful, versatile text editor for iOS.  Elements allows you to view, edit and share plain text documents on your iPad, iPhone or iPod touch.  All of your data is stored in a folder on your personal Dropbox account so that it's accessible from any device you have.
+Elements is ein wunderschöner, vielseitiger Texteditor für iOS. Elements ermöglicht es Ihnen, unformatierte Textdokumente mit Ihrem iPad, iPhone oder iPod touch anzusehen, zu bearbeiten oder gemeinsam zu nutzen. Ihre Dokumente werden dabei auf Ihrer Dropbox gesichert und können so auf jedem Ihrer Geräte betrachtet oder bearbeitet werden.
 
-Whether you're a freelance writer wanting to write your next article, a student with a book report due or professional on-the-go who needs access to their notes wherever they are, Elements can work for you.  
+Ob Sie nun freier Schriftsteller sind, und Ihren nächsten Artikel verfassen wollen, oder ein Schüler, für den die nächste Buchbesprechung fällig wird, oder wenn Sie auch unterwegs immer Zugriff auf Ihre wichtigen Notizen haben müssen - Elements ist das Werkzeug Ihrer Wahl!
 
-FEATURES
-- Create, view and edit text files (.txt) on your iPhone, iPad or iPod touch
-- Cloud based: Elements stores all its data in an /Elements subfolder on your personal Dropbox account so you can access it via your iPhone, iPad, Mac or PC
-- Autosaving 
-- Offline support: upload your changes to Dropbox next time you're connected
-- Full text search of your Elements files
-- Word counts, line counts, character count
-- A Scratchpad to flesh out ideas or store random bits of information
-- Email files as an attachment
-- Sort file listings by name or modified date.
-- Customize the look of the text editor to fit your workflow
-- TextExpander touch support
-- Free customer support via email
+FUNKTIONEN
 
-WHAT OTHERS ARE SAYING
+- Erstellen, betrachten und bearbeiten von Textdokumenten (.txt) auf Ihrem iPhone, iPad oder iPod touch.
+- Cloud basiert: Elements legt alle Dokumente in einem /Elements Unterverzeichnis auf Ihrer persönlicheh Dropbox ab. So können Sie jederzeit mit Ihrem iPhone, iPad, Mac oder PC auf sie zugreifen.
+- Automatische Sicherung
+- Offline Unterstützung: Sichern Sie Ihre Änderungen wenn Sie das nächste Mal online sind.
+- Volltextsuche in Ihren Elements Dokumenten.
+- Wörter, Buchstaben und Zeilen werden gezählt.
+- Ein Notizbuch, zum Aufschreiben Ihrer Ideen zwischendurch.
+- Verschicken Ihrer Dokumente als Mailanhang.
+- Sortieren Sie Ihre Dokumente nach Name oder Änderungsdatum.
+- Passen Sie das Erscheinungsbild nach Ihren Vorlieben an.
+- Unterstützung für TextExpander touch.
+- Kostenloser Support per Mail.
+
+WAS SAGEN DIE ANDEREN
 
 "Works like a charm. Great idea." — John Gruber, Daring Fireball
 
@@ -30,14 +31,14 @@ WHAT OTHERS ARE SAYING
 
 "It's a great app." — MacStories.net
 
-REQUIREMENTS
+VORAUSSETZUNGEN
 
-- iPhone or iPod touch running iOS 4
-- iPad running iOS 3.2
-- Dropbox account
+- iPhone oder iPod touch mit iOS 4
+- iPad mit iOS 3.2
+- Dropbox Account
 
-SUPPORT
+UNTERSTÜTZUNG
 
 Please refrain from sending your bug reports or feature requests using the App Store.  Instead, to ensure a direct response from us send them to support@secondgearsoftware.com. You can also tweet us at http://twitter.com/secondgear or Like us at http://www.facebook.com/secondgearsoftware.  We're always happy to help our users and receive their comments!
 
-Thank you!
+Vielen Dank!
