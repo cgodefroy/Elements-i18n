@@ -1,37 +1,37 @@
-Hi
+Bonjour,
 
-Thank you for downloading Elements! 
+Merci d'avoir acheté Elements! 
 
-Elements is a new Dropbox-powered text editor from Second Gear.  Elements allows you to view, edit and share plain text documents on your iPad, iPhone or iPod touch.  All of your data is stored on your personal Dropbox account.  
+Elements est un nouvel éditeur de texte utilisant Dropbox réalisé par Second Gear.  Elements vous permet de consulter, éditer et partager des textes simples sur votre iPad, iPhone et iPod touch.  Toutes vos données sont stockées dans votre compte Dropbox personnel.  
 
-## Where do files go?
+## Où vont les fichiers?
 
-When you first log in, Elements creates a new folder called "Elements" in your Dropbox.  In the Elements folder should be a single file called "Welcome.txt".  That's the file you are reading right now!  
+Quand vous vous connectez pour la première fois, Elements crèe un dossier nommé "Elements" dans votre Dropbox. Dans ce dossier Elements il y a un seul fichier nommé "Bienvenue.txt".  C'est le fichier que vous lisez en ce moment!  
 
-Any time you edit one of the text files in 'Elements' or on your Mac or PC, the changes will be pushed back to Dropbox and propogated back down.  Note: Dropbox isn't a true syncing platform, so you can't have multiple people working on the same file at different places at once. If, however, you're someone who writes a bit on your Mac and then packs the iPad for a trip to the coffee shop to continue, Elements is a perfect fit.
+Chaque fois que vous éditez un fichier dans le dossier 'Elements' sur votre mac, votre PC, les changements sont poussés vers Dropbox et reviennent dans l'application Elements.  Attention: Dropbox n'est pas une véritable solution de synchronisation, et vous ne pouvez pas avoir plusieurs personnes travaillant en même temps sur un fichier. Par contre, si vous êtes du genre à écrire un peu sur votre Mac et emporter votre iPad avec vous au café, Elements est l'outil idéal.
 
-## Features
+## Fonctionnalités
 
-Elements includes just enough to support your writing without getting in your way:
+Elements inclut juste ce qu'il faut pour vous permettre d'écrire sans vous gêner:
 
-* Create new files.
-* Autosaving every sixty seconds (Network connection required).
-* Word, character and line counts.
-* A scratchpad for you to jot down notes and ideas as you're writing.  
-* TextExpander touch support.  
-* Email your files as attachments.  
+* Créer de nouveaux fichiers.
+* Sauvegarde automatique toutes les 60 secondes (Connexion réseau nécessaire).
+* Compte des mots, lignes et caractères.
+* Un bloc note pour pouvoir noter des idées pendant que vous écrivez.  
+* Support de TextExpander touch.  
+* Envoyez vos textes en pièces jointes.  
 
 ## Support & Feedback
 
-If you have any questions about how to use Dropbox, want to suggest a new feature or just want to say hi, send us an email. 
+Si vous avez des questions sur comment utiliser Dropbox, que vous voulez rajouter une fonction ou nous dire merci, envoyez nous un email. 
 
 Second Gear Feedback Line: support@secondgearsoftware.com
 
-## Leave Us Reviews
+## Laissez des commentaires dans l'AppStore
 
-If you like Elements, it would mean a lot if you would take the time to write a review on the App Store for others to see.  Reviews are a key part in ensuring the products success and our ability to release updates.  
+Si vous appréciez Elements, cela nous aiderait beaucoup que vous preniez le temps d'écrire un commentaire dans l'AppStore pour que d'autres utilisateurs comme vous le lisent. Les commentaires sont une des clés pour assurer le succès du produit et notre capacité à publier des mises à jour.  
 
-We designed Elements to be a frictionless writing platform for ourselves and hope you enjoy using it too.  
+Nous avons designé Elements pour être un environnement d'écriture agréable pour nous même et nous espérons que vous l'appréciez aussi.
 
 - 
 Second Gear 
