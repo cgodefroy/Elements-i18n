@@ -15,8 +15,8 @@ Chaque fois que vous éditez un fichier dans le dossier 'Elements' sur votre mac
 Elements inclut juste ce qu'il faut pour vous permettre d'écrire sans vous gêner:
 
 * Créer de nouveaux fichiers.
-* Organize your files in sub-folders.
-* Open, edit and preview Markdown files.
+* Organiser vos fichiers en sous dossiers.
+* Ouvrir, editer et voir des fichiers Markdown.
 * Sauvegarde automatique toutes les 60 secondes (Connexion réseau nécessaire).
 * Compte des mots, lignes et caractères.
 * Un bloc note pour pouvoir noter des idées pendant que vous écrivez.  

@@ -6,9 +6,9 @@ FONCTIONNALITÉS
 - Créer, lire et éditer des fichiers textes sur votre iPhone, iPad ou iPod touch
 - Dans le cloud: Elements conserve toutes les données dans un dossier Elements de votre Dropbox personnelle pour que vous puissiez y accéder depuis votre iPhone, Mac ou PC.
 - Sauvegarde automatique
-- Organize your files into sub-folders
-- Create and edit Markdown file formats
-- Preview Markdown formatted documents
+- Organiser vos fichiers en sous dossiers.
+- Ouvrir, editer et voir des fichiers Markdown
+- Prévisualiser des documents Markdown
 - Mode non connecté: ajoutez vos modifications à Dropbox la prochaine fois que vous vous connectez
 - Recherche plein texte dans tous vos textes Elements
 - Compte des mots, des lignes et des caractères
@@ -47,14 +47,14 @@ Merci!
 
 ===============
 
-Thank you for supporting Elements! We've been hard at work in the Second Gear garage making a new version that adds many features of the features you've requested.
+Merci pour votre support d'Elements! Nous avons travaillé dur dans le garage de Second Gear pour faire une nouvelle version qui ajoute plein de nouvelles fonctions aux nouvelle fonctions que vous avez demandées.
 
-* [NEW] Placeholder
-* [CHANGE] Placeholder
-* [FIX] Placeholder
+* [NOUVEAU] Placeholder
+* [CHANGEMENT] Placeholder
+* [CORRECTION] Placeholder
 
-If you enjoy Elements, please be sure to rate each new version 5 stars on the App Store.  High reviews from our customers ensure future updates to apps and allow new customers to see how many people enjoy MarkdownMail.
+Si vous appréciez Elements, n'oubliez pas de rajouter 5 étoiles à la note de l'appli sur l'App Store. Les applis les mieux notéees par nos utilisateurs nous permettent de faire des mises à jour et permettent aux autres utilisateurs de découvrir l'appli.
 
-Please refrain from sending your bug reports or feature requests using the App Store.  Instead, to ensure a direct response from us send them to support@secondgearsoftware.com. You can also tweet us at @secondgear (http://twitter.com/secondgear) or Like us on Facebook (http://facebook.com/secondgearsoftware).  We're always happy to help our users and receive their comments!
+Veuillez s'il vous plait éviter d'envoyer vos rapports de bug ou vos demandes de fonctionnalités supplémentaires à travers l'AppStore. A la place, pour obtenir une réponse directe de notre part, envoyez les à support@secondgearsoftware.com. Ou envoyez nous un tweet à http://twitter.com/secondgear ou Aimez-Nous sur Facebook http://www.facebook.com/secondgearsoftware. Nous sommes toujours heureux d'aider nos utilisateurs et de répondre à leurs commentaires!
 
 Thank you!
