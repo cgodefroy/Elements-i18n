@@ -6,6 +6,9 @@ FONCTIONNALITÉS
 - Créer, lire et éditer des fichiers textes sur votre iPhone, iPad ou iPod touch
 - Dans le cloud: Elements conserve toutes les données dans un dossier Elements de votre Dropbox personnelle pour que vous puissiez y accéder depuis votre iPhone, Mac ou PC.
 - Sauvegarde automatique
+- Organize your files into sub-folders
+- Create and edit Markdown file formats
+- Preview Markdown formatted documents
 - Mode non connecté: ajoutez vos modifications à Dropbox la prochaine fois que vous vous connectez
 - Recherche plein texte dans tous vos textes Elements
 - Compte des mots, des lignes et des caractères

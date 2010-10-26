@@ -6,6 +6,9 @@ FEATURES
 - Create, view and edit text files (.txt) on your iPhone, iPad or iPod touch
 - Cloud based: Elements stores all its data in an /Elements subfolder on your personal Dropbox account so you can access it via your iPhone, iPad, Mac or PC
 - Autosaving 
+- Organize your files into sub-folders
+- Create and edit Markdown file formats
+- Preview Markdown formatted documents
 - Offline support: upload your changes to Dropbox next time you're connected
 - Full text search of your Elements files
 - Word counts, line counts, character count

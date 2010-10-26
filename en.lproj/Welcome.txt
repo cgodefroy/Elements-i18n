@@ -15,6 +15,8 @@ Any time you edit one of the text files in 'Elements' or on your Mac or PC, the 
 Elements includes just enough to support your writing without getting in your way:
 
 * Create new files.
+* Organize your files in sub-folders.
+* Open, edit and preview Markdown files.
 * Autosaving every sixty seconds (Network connection required).
 * Word, character and line counts.
 * A scratchpad for you to jot down notes and ideas as you're writing.  

@@ -7,6 +7,9 @@ FUNKTIONEN
 - Erstellen, betrachten und bearbeiten von Textdokumenten (.txt) auf Ihrem iPhone, iPad oder iPod touch.
 - Cloud basiert: Elements legt alle Dokumente in einem /Elements Unterverzeichnis auf Ihrer persönlicheh Dropbox ab. So können Sie jederzeit mit Ihrem iPhone, iPad, Mac oder PC auf sie zugreifen.
 - Automatische Sicherung
+- Organize your files into sub-folders
+- Create and edit Markdown file formats
+- Preview Markdown formatted documents
 - Offline Unterstützung: Sichern Sie Ihre Änderungen wenn Sie das nächste Mal online sind.
 - Volltextsuche in Ihren Elements Dokumenten.
 - Wörter, Buchstaben und Zeilen werden gezählt.
