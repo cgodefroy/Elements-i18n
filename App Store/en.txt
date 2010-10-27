@@ -53,7 +53,7 @@ Thank you for supporting Elements! We've been hard at work in the Second Gear ga
 * [CHANGE] Placeholder
 * [FIX] Placeholder
 
-If you enjoy Elements, please be sure to rate each new version 5 stars on the App Store.  High reviews from our customers ensure future updates to apps and allow new customers to see how many people enjoy MarkdownMail.
+If you enjoy Elements, please be sure to rate each new version 5 stars on the App Store.  High reviews from our customers ensure future updates to apps and allow new customers to see how many people enjoy Elements.
 
 Please refrain from sending your bug reports or feature requests using the App Store.  Instead, to ensure a direct response from us send them to support@secondgearsoftware.com. You can also tweet us at @secondgear (http://twitter.com/secondgear) or Like us on Facebook (http://facebook.com/secondgearsoftware).  We're always happy to help our users and receive their comments!
 
