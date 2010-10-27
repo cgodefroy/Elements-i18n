@@ -15,8 +15,8 @@ Jedes Mal, wenn Sie ein Dokument mit Elements oder auf Ihrem Mac, bzw. PC bearbe
 Elements hat genau die Funktionen, die Sie für ungestörte Textverarbeitung benötigen:
 
 * Neue Dokumente erstellen.
-* Organize your files in sub-folders.
-* Open, edit and preview Markdown files.
+* Ordnen Sie Ihre Dokumente in Unterverzeichnissen.
+* Öffnen und bearbeiten Sie auch Markdown Dateien, sogar mit Voransicht.
 * Automatische Sicherung alle 60 Sekunden (Benötigt Netzwerkverbindung).
 * Wörter, Buchstaben und Zeilen werden gezählt.
 * Ein Notizbuch, zum Aufschreiben Ihrer Ideen zwischendurch.

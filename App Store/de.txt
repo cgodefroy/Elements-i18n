@@ -42,20 +42,14 @@ VORAUSSETZUNGEN
 
 UNTERSTÜTZUNG
 
+Vielen Dank für die Unterstützung von Elements.  Wir in der Second Gear Garage haben hart an der neuen Version gearbeitet, und eine Menge der von Ihnen gewünschten Funktionen eingebaut.
+
+* [NEU] Placeholder
+* [GEÄNDERT] Placeholder
+* [BUGFIX] Placeholder
+
+Wenn Elements Ihnen gefällt, dann bewerten Sie bitte jede neue Version im App Store mit fünf Sternen! Hohe Bewertungen von unseren Kunden sicher die Zukunft unserer Apps und zeigen potentiellen Kunden wie sehr Sie MarkdownMail mögen.
+
 Bitte nehmen Sie davon Abstand, Fehler oder Verbesserungsvorschläge direkt im App Store zu äußern. Für einen besseren Informationsaustausch senden Sie stattdessen bitte eine Mail an elements@secondgearsoftware.com. Sie erreichen uns auch über Twitter unter @secondgear (http://twitter.com/secondgear) oder drücken Sie Ihr Gefallen für uns bei Facebook aus (http://facebook.com/secondgearsoftware). Wir freuen uns immer Ihnen helfen zu können und sind gespannt auf Ihre Kommentare.
 
 Vielen Dank!
-
-===============
-
-Thank you for supporting Elements! We've been hard at work in the Second Gear garage making a new version that adds many features of the features you've requested.
-
-* [NEW] Placeholder
-* [CHANGE] Placeholder
-* [FIX] Placeholder
-
-If you enjoy Elements, please be sure to rate each new version 5 stars on the App Store.  High reviews from our customers ensure future updates to apps and allow new customers to see how many people enjoy MarkdownMail.
-
-Please refrain from sending your bug reports or feature requests using the App Store.  Instead, to ensure a direct response from us send them to support@secondgearsoftware.com. You can also tweet us at @secondgear (http://twitter.com/secondgear) or Like us on Facebook (http://facebook.com/secondgearsoftware).  We're always happy to help our users and receive their comments!
-
-Thank you!
