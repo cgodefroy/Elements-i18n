@@ -9,7 +9,6 @@ If you're interested in maintaining a language or have any feedback on an existi
 * English - [Second Gear](http://github.com/secondgear)
 * French - [cgodefroy](http://github.com/cgodefroy)
 * German - [ElGrowZone](http://github.com/elgrowzone)
-* Spanish - 
 
 ## How to Help ##
 
